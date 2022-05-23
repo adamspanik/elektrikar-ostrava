@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Images>
+
+  <Image>
+    <ImageTab>auto1</ImageTab>
+    <ImagePath>http://image.motortrend.com/f/oftheyear/car/1301_2013_motor_trend_car_of_the_year_tesla_model_s/41007734+w644+h0/2013-Tesla-Model-S-front-1.jpg</ImagePath>
+  </Image>
+
+  <Image>
+    <ImageTab>auto2</ImageTab>
+    <ImagePath>http://www.slotcarillustrated.com/v-web/gallery/d/166511-1/Datsun_31_51.jpg</ImagePath>
+  </Image>
+
+  <Image>
+    <ImageTab>auto3</ImageTab>
+    <ImagePath>http://www.vectordiary.com/isd_premium/006-photorealistic-car/photorealistic-mustang-vector-car.jpg</ImagePath>
+  </Image>
+
+
+</Images>

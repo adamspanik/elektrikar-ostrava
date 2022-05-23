@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>certifikat</title>
+   	<link>.</link>
+        <generator>Jalbum 8.7</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>osv1</title>
+            <link>slides/osv1.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv1.jpg" width="168" height="240"/>
+            <media:content url="slides/osv1.jpg" width="597" height="850"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:59" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv2</title>
+            <link>slides/osv2.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv2.jpg" width="168" height="240"/>
+            <media:content url="slides/osv2.jpg" width="612" height="870"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:55" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv3</title>
+            <link>slides/osv3.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv3.jpg" width="168" height="240"/>
+            <media:content url="slides/osv3.jpg" width="596" height="850"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:58" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv4</title>
+            <link>slides/osv4.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv4.jpg" width="168" height="240"/>
+            <media:content url="slides/osv4.jpg" width="598" height="850"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:59" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv5</title>
+            <link>slides/osv5.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv5.jpg" width="171" height="240"/>
+            <media:content url="slides/osv5.jpg" width="613" height="857"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:57" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv5.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv6</title>
+            <link>slides/osv6.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv6.jpg" width="175" height="240"/>
+            <media:content url="slides/osv6.jpg" width="631" height="864"/>
+            
+            <jalbum:exif originalDate="9.6.10 19:01" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv6.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv7</title>
+            <link>slides/osv7.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv7.jpg" width="240" height="169"/>
+            <media:content url="slides/osv7.jpg" width="870" height="613"/>
+            
+            <jalbum:exif originalDate="9.6.10 18:53" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv7.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv8</title>
+            <link>slides/osv8.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv8.jpg" width="170" height="240"/>
+            <media:content url="slides/osv8.jpg" width="728" height="1024"/>
+            
+            <jalbum:exif originalDate="23.6.10 18:26" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv8.jpg</guid>
+        </item>
+        
+        <item>
+            <title>osv9</title>
+            <link>slides/osv9.htm#</link>
+            <pubDate>Mon, 16 Aug 2010 14:47:04 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/osv9.jpg" width="172" height="240"/>
+            <media:content url="slides/osv9.jpg" width="738" height="1024"/>
+            
+            <jalbum:exif originalDate="23.6.10 18:38" cameraMake="HP" cameraModel="HP psc1500"/>
+            <guid isPermaLink="false">slides/osv9.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
