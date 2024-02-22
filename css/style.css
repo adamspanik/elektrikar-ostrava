@@ -1009,11 +1009,13 @@ a:focus {
   color: inherit;
 }
 
-
 .item{
   padding-bottom:30px
 }
 
+.map{
+  border:0;
+}
 
 .lightbox-gallery p{
   color:#fff
