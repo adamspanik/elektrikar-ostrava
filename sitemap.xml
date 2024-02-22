@@ -6,32 +6,42 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/sluzby.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/index.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/cenik.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/o_firme.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/fotogalerie.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/sluzby.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/osvedceni.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/cenik.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/ofirme.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/osvedceni.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.elektrikar-ostrava.cz/kontakt.htm</loc>
-  <lastmod>2010-06-17T01:55:40+00:00</lastmod>
+  <loc>https://www.elektrikar-ostrava.cz/kontakt.html</loc>
+  <lastmod>2024-02-22T13:45:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+
+
 </urlset>
