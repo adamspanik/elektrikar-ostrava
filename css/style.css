@@ -851,6 +851,10 @@ a:focus {
   width: 100%;
 }
 
+.contact_info {
+  color:#ffffff;
+}
+
 .info_section {
   background-color: #2a364b;
   color: #ffffff;
